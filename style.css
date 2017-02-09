@@ -1,0 +1,49 @@
+.nameList {
+margin-bottom: 2px;
+margin-top: 25px;
+}
+
+.priceSpan {
+padding-left: 25px;
+}
+
+#receiptContainer {
+  text-align: center;
+  border-style: outset;
+  border-width: thick;
+  border-radius: 12px;
+}
+
+/*span, p {
+  color: lightgray;
+} */
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 5px;
+}
+
+.navbar li form{
+    float: left;
+}
+
+.navbar li form {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar li form:hover {
+    background-color: #111;
+}
+
+p {
+  text-decoration: underline;
+
+}
